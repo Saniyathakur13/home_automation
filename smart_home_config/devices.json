@@ -1,0 +1,36 @@
+{
+    "Living Room Light": {
+        "type": "Light",
+        "state": false,
+        "connected": false,
+        "brightness": 100,
+        "room": "Living Room"
+    },
+    "Thermostat": {
+        "type": "Thermostat",
+        "state": false,
+        "connected": false,
+        "temperature": 22,
+        "mode": "heat"
+    },
+    "Google Home": {
+        "type": "Smart Speaker",
+        "state": false,
+        "connected": false
+    },
+    "Living Room Thermostat": {
+        "type": "Thermostat",
+        "state": false,
+        "connected": false,
+        "temperature": 22,
+        "mode": "heat"
+    },
+    "Living Room AC": {
+        "type": "Air Conditioner",
+        "state": false,
+        "connected": false,
+        "temperature": 24,
+        "mode": "cool",
+        "fan_speed": "auto"
+    }
+}

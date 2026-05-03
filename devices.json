@@ -1,0 +1,27 @@
+{
+    "Living Room Light": {
+        "state": false,
+        "type": "light"
+    },
+    "Kitchen Light": {
+        "state": false,
+        "type": "light"
+    },
+    "Bedroom Light": {
+        "state": false,
+        "type": "light"
+    },
+    "Thermostat": {
+        "state": false,
+        "type": "climate",
+        "temperature": 22
+    },
+    "Security Camera": {
+        "state": false,
+        "type": "security"
+    },
+    "Smart Plug": {
+        "state": false,
+        "type": "plug"
+    }
+}
